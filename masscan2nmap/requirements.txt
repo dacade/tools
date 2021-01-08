@@ -1,0 +1,16 @@
+certifi==2020.12.5
+cffi==1.14.4
+chardet==4.0.0
+colorama==0.4.4
+commonmark==0.9.1
+gevent==20.12.1
+greenlet==0.4.17
+idna==2.10
+pycparser==2.20
+Pygments==2.7.3
+python-nmap==0.6.1
+requests==2.25.1
+rich==9.6.1
+urllib3==1.26.2
+zope.event==4.5.0
+zope.interface==5.2.0
