@@ -51,9 +51,4 @@ python3 scan.py
 
 ### 0x06 Thanks
 
-<<<<<<< HEAD
 https://github.com/7dog7/masscan_to_nmap
-
-=======
-https://github.com7dog7masscan_to_nmap
->>>>>>> 81b0ec7fe2ed5ddbeb44f898360a5e89edfb98bc
