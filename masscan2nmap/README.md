@@ -2,6 +2,8 @@
 
 masscan端口快速扫描+nmap服务精准识别，过滤含有防火墙的IP,协程获取http请求标题
 
+![](E:\其他文件放这里\git\masscan2nmap\1.png)
+
 ### **0x02 运行环境说明**
 
 Linux + Python3
@@ -49,5 +51,5 @@ python3 scan.py
 
 ### 0x06 Thanks
 
-httpsgithub.com7dog7masscan_to_nmap
+https://github.com/7dog7/masscan_to_nmap
 
