@@ -49,4 +49,4 @@ python3 scan.py
 
 ### 0x06 Thanks
 
-httpsgithub.com7dog7masscan_to_nmap
+https://github.com7dog7masscan_to_nmap
