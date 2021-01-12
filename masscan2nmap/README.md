@@ -2,7 +2,7 @@
 
 masscan端口快速扫描+nmap服务精准识别，过滤含有防火墙的IP,协程获取http请求标题
 
-![](E:\其他文件放这里\git\masscan2nmap\1.png)
+![](https://github.com/dacade/tools/blob/master/masscan2nmap/1.png)
 
 ### **0x02 运行环境说明**
 
